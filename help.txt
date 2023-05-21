@@ -1,2 +1,14 @@
 1) ctrl + a - select whole 
 2)ctrl + ? - comment w keyboard and uncomment as well
+3)HOW TO CREATE A REPO - 
+Add a readme file .
+Go to CODE  , go to https
+open vsode terminal , tpe "git clone (the https link )"
+change directory in to the cloned folder
+do the changes whatevers needed , add all the code into this folder
+"git add" type , thena ll the files will be added on the stage , ready to be committed
+"git commit -m "commit message""
+
+** two ways to push the code --
+1) green button PUBLISH on the left side
+2) git push
