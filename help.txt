@@ -1,0 +1,2 @@
+1) ctrl + a - select whole 
+2)ctrl + ? - comment w keyboard and uncomment as well
